@@ -1,0 +1,53 @@
+body {
+    margin: 10px;
+    padding: 5px;
+background-color: rgb(169, 218, 241);
+  }
+  
+  .curriculo {
+    position: relative;
+    padding-left: 30px; /* Adicionamos uma margem à esquerda para a imagem */
+    background-color: rgb(253, 240, 255);
+  }
+  
+  .curriculo img {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    width: 150px; /*aumnetar o tanho da imagem*/
+    height: 150px; /*aumnetar o tanho da imagem*/
+    border-radius: 50%;
+    border: 2px solid #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+  
+ 
+h5 {
+    font-size: 18px;
+  }
+  
+  h4 {
+    font-size: 16px;
+  }
+
+  h3 {
+    font-size: 16px;
+  }
+
+  h6 {
+    font-size: 16px;
+  }
+
+  style .texto {
+    margin: 15px;
+  }
+
+  h6 {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(2, 109, 11);
+  }
+  
+
+ 
+  

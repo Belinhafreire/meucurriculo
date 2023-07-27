@@ -22,27 +22,18 @@ background-color: rgb(169, 218, 241);
 }
   
  
-h5 {
-    font-size: 18px;
-  }
+
   
-  h4 {
-    font-size: 16px;
-  }
+  
 
-  h3 {
-    font-size: 16px;
-  }
-
-  h6 {
-    font-size: 16px;
-  }
+  
+  
 
   style .texto {
     margin: 15px;
   }
 
-  h6 {
+  h3 {
     font-size: 20px;
     text-align: center;
     color: rgb(2, 109, 11);
